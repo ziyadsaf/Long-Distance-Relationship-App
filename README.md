@@ -22,6 +22,5 @@ If one person is not logged in, then if an option is selected, a pop up is shown
 E.g. "You missed X's hug!"
 Options given:
 - Virtual Hug
-- Virtual kiss on cheek
 - Virtual nap
 - Virtual game (extended version)
